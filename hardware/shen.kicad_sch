@@ -12392,7 +12392,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small_US"
+		(property "Value" "63.4k"
 			(at 271.78 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15066,7 +15066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 110.49 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -16394,7 +16394,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small_US"
+		(property "Value" "10k"
 			(at 271.78 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
