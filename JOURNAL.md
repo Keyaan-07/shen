@@ -20,3 +20,11 @@ I completed the schematic, and i dont really understand how does the radio modul
 A lot of my footprints are 0201, basically all resistors and most capacitors. I will change them up if i cannot find proper 0201 parts!
 
 ### Time Spent: 1 hour
+
+# entry 3(20 august)
+
+I speedran the PCB, and most of the things are done, i am thinking of doing 4 layers instead of 2, so i might need to re-route it, the PCB dimensions are 21x51, thus i think it'll be made in $2 only, not $7 by JLC!
+![pcb](/media/e2-pcb.png)
+That is it for the session, i spent not too much time routing it!
+
+### Time spent: 1 hour 45 mins(1.75 hours)
