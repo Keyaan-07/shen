@@ -6,6 +6,9 @@ created_at: "2026-08-20"
 ---
 
 # entry 1(20 august)
-I did a lot of work in the schematic, and i am almost done with everything, just adding a buck converter and the wireless chip is left! I have no space for the GPIO 24, but i think i'll use it up in bringing up the wireless chip!
+I did a lot of work in the schematic, and i am almost done with everything, just adding a buck converter and the wireless chip is left! I have no space for the GPIO 24, but i think i'll use it up in bringing up the wireless chip!  
+I forgot the image, here is the image:  
+![image](/media/e1-img.png)  
+
 
 ### Time spent: 1 hour 20 mins(1.3 hours)
