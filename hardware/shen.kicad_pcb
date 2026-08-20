@@ -5383,6 +5383,7 @@
 		)
 		(embedded_fonts no)
 		(model "../3d_models/rpi_rmc20452t.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
