@@ -16,7 +16,7 @@ I forgot the image, here is the image:
 
 # entry 2(20 august)
 I completed the schematic, and i dont really understand how does the radio module 2 have 1 pin controlling 3 pins via resistors, but yeah it's nice. Also, here is what the schematic look like rn:  
-![shen](/media/shen.svg)
+![shen](/media/e1-sch.svg)
 A lot of my footprints are 0201, basically all resistors and most capacitors. I will change them up if i cannot find proper 0201 parts!
 
 ### Time Spent: 1 hour
@@ -28,3 +28,13 @@ I speedran the PCB, and most of the things are done, i am thinking of doing 4 la
 That is it for the session, i spent not too much time routing it!
 
 ### Time spent: 1 hour 45 mins(1.75 hours)
+
+# entry 4(20 august)
+Finally done with the PCB, and also, I had to do lots of stuff, first of all, there was this small ground pin number 8 for the ground pin of the flash, i had to change the bottom traces just to fit a via!  
+![e4-gnd](/media/e4-gnd.png)  
+this is what the completed PCB render looks like in Kicad:  
+![3d render](/media/e4-3d.png)  
+![pcb](/media/e4-pcb.png)
+![schematic](/media/shen.svg)
+
+### Time Spent: 1 hour
