@@ -12,3 +12,11 @@ I forgot the image, here is the image:
 
 
 ### Time spent: 1 hour 20 mins(1.3 hours)
+
+
+# entry 2(20 august)
+I completed the schematic, and i dont really understand how does the radio module 2 have 1 pin controlling 3 pins via resistors, but yeah it's nice. Also, here is what the schematic look like rn:  
+![shen](/media/shen.svg)
+A lot of my footprints are 0201, basically all resistors and most capacitors. I will change them up if i cannot find proper 0201 parts!
+
+### Time Spent: 1 hour
